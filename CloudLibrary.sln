@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadLibraryAPI", "cadLibraryAPI\cadLibraryAPI.csproj", "{E5F430EE-310F-4C19-A45F-0582559F00BD}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "cadLibraryWorker", "cadLibraryWorker\cadLibraryWorker.ccproj", "{7423FD83-619A-4458-8E01-1698954465D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{911D14FD-5EC8-49B5-AD4B-914379AA86F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F430EE-310F-4C19-A45F-0582559F00BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F430EE-310F-4C19-A45F-0582559F00BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F430EE-310F-4C19-A45F-0582559F00BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F430EE-310F-4C19-A45F-0582559F00BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7423FD83-619A-4458-8E01-1698954465D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7423FD83-619A-4458-8E01-1698954465D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7423FD83-619A-4458-8E01-1698954465D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7423FD83-619A-4458-8E01-1698954465D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911D14FD-5EC8-49B5-AD4B-914379AA86F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911D14FD-5EC8-49B5-AD4B-914379AA86F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911D14FD-5EC8-49B5-AD4B-914379AA86F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911D14FD-5EC8-49B5-AD4B-914379AA86F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
