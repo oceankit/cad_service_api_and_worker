@@ -1,17 +1,17 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:01 PM] Emulator config file set to C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] DiagnosticsStoreRootPath set to: C:\Users\Sattar\AppData\Local\dftmp\Resources\bc52ac5d-cc82-4b57-9cf9-ef1d58cff8ee
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Loading config file: C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Config file to read: C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Emulator config file set to C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:32:02 PM] Resetting DiagnosticPlugin
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:33:12 PM] DiagnosticsPlugin launched successfully with new configuration
-DiagnosticsPluginLauncher.exe Information: 0 : [3/10/2017 3:33:12 PM] DiagnosticPlugin exited with code 0
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Emulator config file set to C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] DiagnosticsStoreRootPath set to: C:\Users\Sattar\AppData\Local\dftmp\Resources\d8dd8fd6-064d-4909-ba75-55846d29f562
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Loading config file: C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Config file to read: C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Emulator config file set to C:\Users\Sattar\Downloads\CSharp\CloudLibrary\cadLibraryWorker\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:54:28 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:55:39 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [3/11/2017 5:55:39 AM] DiagnosticPlugin exited with code 0

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="cadLibraryWorker" generation="1" functional="0" release="0" Id="0b547ac4-e96a-40c2-827c-97a30b58f8b2" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="cadLibraryWorker" generation="1" functional="0" release="0" Id="9fd31719-2901-4030-8c12-fb98de098b4d" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="cadLibraryWorkerGroup" generation="1" functional="0" release="0">
       <settings>
